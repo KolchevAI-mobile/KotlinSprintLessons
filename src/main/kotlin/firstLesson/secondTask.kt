@@ -1,8 +1,7 @@
 package org.example.firstLesson
 
 fun main() {
-
-    var ordersCount: Int = 75
+    val ordersCount: Int = 75
     val thanksForOrder: String = "Thanks for your order!"
 
     println(ordersCount)
